@@ -1,0 +1,31 @@
+{
+  "disease": "Heart Disease",
+  "best_model": "K-Nearest Neighbors",
+  "metrics": {
+    "Model": "K-Nearest Neighbors",
+    "Accuracy": 0.9016393442622951,
+    "Precision": 0.8235294117647058,
+    "Recall": 1.0,
+    "F1 Score": 0.9032258064516129,
+    "ROC-AUC": 0.9583333333333334
+  },
+  "class_names": [
+    "No Heart Disease",
+    "Heart Disease"
+  ],
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}

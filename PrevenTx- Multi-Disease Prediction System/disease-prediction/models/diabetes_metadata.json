@@ -1,0 +1,26 @@
+{
+  "disease": "Diabetes",
+  "best_model": "Gradient Boosting",
+  "metrics": {
+    "Model": "Gradient Boosting",
+    "Accuracy": 0.7597402597402597,
+    "Precision": 0.6888888888888889,
+    "Recall": 0.5740740740740741,
+    "F1 Score": 0.6262626262626263,
+    "ROC-AUC": 0.8303703703703703
+  },
+  "class_names": [
+    "No Diabetes",
+    "Diabetes"
+  ],
+  "feature_names": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ]
+}
